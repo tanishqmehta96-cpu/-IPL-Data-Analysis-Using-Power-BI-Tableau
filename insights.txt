@@ -1,0 +1,26 @@
+
+Exploratory Data Analysis Insights
+
+Match and Team Insights:
+- Total Matches: 636
+- Total Seasons: 10
+
+Most Successful Teams (Top 5):
+Mumbai Indians                 92
+Chennai Super Kings            79
+Kolkata Knight Riders          77
+Royal Challengers Bangalore    73
+Kings XI Punjab                70
+
+Top Players with 'Player of the Match' Awards (Top 5):
+CH Gayle          18
+YK Pathan         16
+DA Warner         15
+AB de Villiers    15
+RG Sharma         14
+
+Toss Decisions and Match Outcomes:
+- Percentage of matches won by the team that won the toss: 51.10%
+
+Seasonal Performance:
+- The total runs scored per season are visualized in the bar chart from the previous analysis. The years 2012 and 2013 had the highest total runs.
